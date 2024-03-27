@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://alexbraga.github.io/Dicee-Game/">Dicee Game</a>
+  <a href="https://alexbraga.github.io/dicee-game/">Dicee Game</a>
 </h1>
 
 <h3 align="center">
@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/alexbraga/Dicee-Game/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alexbraga/Dicee-Game"></a>
+  <a href="https://github.com/alexbraga/dicee-game/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alexbraga/dicee-game"></a>
 </p>
 
 <h4 align="center">
@@ -16,7 +16,7 @@
 
 ## About
 
-<p align="justify">JavaScript project built for <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2021 Web Development Bootcamp</a>. Available <a href="https://alexbraga.github.io/Dicee-Game/">here</a>.</p>
+<p align="justify">JavaScript project built for <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2021 Web Development Bootcamp</a>. Available <a href="https://alexbraga.github.io/dicee-game/">here</a>.</p>
 
 ---
 
